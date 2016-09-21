@@ -1,8 +1,11 @@
 - DONE: Enregistrer stimuli entrainement (Claire & Joseph) 
-- EN COURS: Modifier les stimuli /dV/ pour créer les stimuli /V/
-- EN COURS: Créer fonction lecture son - (Assil & Lucas) 
-- Randomisation -
+- DONE: Modifier les stimuli /dV/ pour créer les stimuli /V/ (Claire, Joseph, Lucas)
+- EN COURS: Créer fonction lecture son - (Assil, Joseph, Lucas) 
+- EN COURS: Randomisation (Claire & Joseph) 
   - Ordre des blocs {[block I][block U] ou [block U][block I]}
   - Pas de stimuli avec consonne à la suite
   - Jouer tous les stimuli d'un bloc au moins 1 fois avant d'en répéter
-- Interface graphique
+- Demande informations sujet (code sujet) (Claire & Joseph)
+- EN COURS: Interface graphique
+- Enregistrement réponses
+- Instructions 
